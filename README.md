@@ -5,4 +5,4 @@ Ultimately, this cleaned data was used for a deep dive analysis into the trends 
 
 Please visit my [completed Tableau dashboard here](https://public.tableau.com/profile/howard.mitchell#!/vizhome/CitiBikeAnalysis_15685152605160/CitiBikeStory) for the full analysis.
 
-![Citi Bike Pic]()
+![Citi Bike Pic](https://raw.githubusercontent.com/hgmhd7/Tableau-Citi-Bike-Analysis-preliminary-data-cleaning/master/citi_bike.png)
